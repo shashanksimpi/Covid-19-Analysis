@@ -3,5 +3,5 @@ This project will give the brief information of COVID-19 conformed cases, querie
 
 
 Step 1 : Download the project files. 
-step 2 : Open the covid_19_india.csv in ecel which contains the data.
+step 2 : Open the covid_19_india.csv in excel which contains the data.
 step 3 : open the Tableau.twb in tableau.
